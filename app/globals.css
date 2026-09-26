@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #0e0d0c;
+  color: #f4ede0;
+}
+
+.card {
+  background: #171513;
+  border: 1px solid #2a2724;
+  border-radius: 12px;
+}
+
+.btn-gold {
+  background: linear-gradient(180deg, #e6c877, #c9a24b);
+  color: #14120f;
+  font-weight: 600;
+}
+
+.btn-gold:hover {
+  filter: brightness(1.05);
+}
+
+.pill {
+  border-radius: 999px;
+  padding: 2px 10px;
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}

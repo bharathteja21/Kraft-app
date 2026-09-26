@@ -1,0 +1,15 @@
+[
+  { "id": "motion-intro-01", "name": "Golden Hour Intro", "category": "Motion Intro", "tier": "free", "durationSec": 4, "aspect": "9:16" },
+  { "id": "motion-intro-02", "name": "Minimal Wordmark", "category": "Motion Intro", "tier": "free", "durationSec": 3, "aspect": "1:1" },
+  { "id": "motion-intro-03", "name": "Editorial Kinetic Type", "category": "Motion Intro", "tier": "pro", "durationSec": 5, "aspect": "9:16" },
+  { "id": "motion-intro-04", "name": "Luxe Marble Reveal", "category": "Motion Intro", "tier": "pro", "durationSec": 4, "aspect": "16:9" },
+  { "id": "video-reel-01", "name": "Day-in-the-Life Cutdown", "category": "Video Reel", "tier": "free", "durationSec": 30, "aspect": "9:16" },
+  { "id": "video-reel-02", "name": "Product Showcase", "category": "Video Reel", "tier": "free", "durationSec": 20, "aspect": "1:1" },
+  { "id": "video-reel-03", "name": "Editorial Fashion Cut", "category": "Video Reel", "tier": "pro", "durationSec": 25, "aspect": "9:16" },
+  { "id": "video-reel-04", "name": "Before/After Transition", "category": "Video Reel", "tier": "pro", "durationSec": 15, "aspect": "9:16" },
+  { "id": "video-reel-05", "name": "Travel Montage", "category": "Video Reel", "tier": "pro", "durationSec": 35, "aspect": "16:9" },
+  { "id": "carousel-01", "name": "Quote Card Set", "category": "Graphic Carousel", "tier": "free", "durationSec": 0, "aspect": "1:1" },
+  { "id": "carousel-02", "name": "Product Grid", "category": "Graphic Carousel", "tier": "free", "durationSec": 0, "aspect": "1:1" },
+  { "id": "carousel-03", "name": "Press Feature Layout", "category": "Graphic Carousel", "tier": "pro", "durationSec": 0, "aspect": "4:5" },
+  { "id": "carousel-04", "name": "Luxury Lookbook", "category": "Graphic Carousel", "tier": "pro", "durationSec": 0, "aspect": "4:5" }
+]
